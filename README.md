@@ -18,3 +18,7 @@ Actually, we can simply use a technical solution! We have knowledge of basic Uni
 2. make sure to get the IP address.
 3. Then connect normally.
 
+Specifically:
+
+1. getent hosts lambda-server => 192.168.200.250
+2. Then, we simply do: `192.168.200.250:8888?token=$TOKEN` 
