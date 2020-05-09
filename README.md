@@ -24,3 +24,5 @@ Specifically:
 2. Then, we simply do: `192.168.200.250:8888?token=$TOKEN` 
 
 This technical proficiency makes me feel amazing! Have the skills to really impact the world!
+
+Sadly, seems the permission is revoked!
